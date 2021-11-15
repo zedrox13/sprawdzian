@@ -1,1 +1,20 @@
 # sprawdzian
+
+SKAJFHKSHDLKJASAXKJXZCJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
