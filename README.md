@@ -1,7 +1,12 @@
-# sprawdzian
+#include <iostream>
 
-SKAJFHKSHDLKJASAXKJXZCJ
+using namespace std;
 
+int main()
+{
+    cout << "heloł word";
+    cout << ":D";
+}
 
 
 
